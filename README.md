@@ -401,6 +401,6 @@ If you use UHCMFA in academic work, cite it as:
 
 ```
 UHCMFA — Universal Hexagram Coding Multifractal Analysis.
-https://github.com/<your-username>/uhcmfa
+https://github.com/deleyselem/uhcmfa
 
 ```
