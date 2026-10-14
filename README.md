@@ -1,4 +1,3 @@
-```
 # UHCMFA — Universal Hexagram Coding Multifractal Analysis
 
 Encode any DNA or RNA sequence into I-Ching hexagrams and compute a
